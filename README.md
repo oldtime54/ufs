@@ -1,3 +1,5 @@
+Original source is from https://github.com/mvallim/live-custom-ubuntu-from-scratch
+
 # Build Scripts
 
 ## build.sh
